@@ -30,6 +30,7 @@ Coming soon
 * Initialize the Express NodeJS project
 * Configure Google App Engine deploys
 * Configure GitHub actions to automate deploys on App Engine
+* Added DB connection and initial scheme
 
 ## License
 [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)
